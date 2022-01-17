@@ -2,4 +2,4 @@
 
 WebAssembly port of the DeSmuME.
 
-https://Sembulance.44670.org/
+https://Sembulance.DinoPolice.org/
