@@ -1,5 +1,5 @@
-# DeSmuME-wasm
+# Sembulance
 
-WebAssembly port of the DeSmuME.
+WebAssembly port of Sembulance.
 
-https://Sembulance.DinoPolice.org/
+https://dinopolice.github.io/Nintendo-DS-Emulate/
